@@ -19,7 +19,11 @@
 - **Коллекция Postman для Petstore: REST**: [Открыть в Postman Web](https://www.postman.com/igor-4511184/workspace/mypublicworkspace/collection/44454246-90e54da1-a30c-4270-ab2b-b74bf1ff3c58?action=share&source=copy-link&creator=44454246)  
 - **Тест-кейсы для блока "user" (Excel / Google Sheets)**: [Тест-кейсы API](https://docs.google.com/spreadsheets/d/1DId8qZIMH3zZREjgcBQOOaIPfA0WTO3U/edit?usp=drive_link&ouid=113518848520776696910&rtpof=true&sd=true)  
 
-> Тест-кейсы включают проверку всех методов для раздела **user**, с ожидаемыми результатами и типами данных.
+> Тест-кейсы включают проверку всех методов для раздела **user**, с ожидаемыми результатами и типами данных.  
+
+💡 **Баг-репорт:**  
+Скриншот найденного бага: [Открыть в Google Диске](https://drive.google.com/file/d/1mzQCGpZguP0FnA1u8jUTr-kyZyRZ4WLf/view?usp=drive_link)
+
 
 ---
 
